@@ -51,5 +51,6 @@ C# .NET & JavaScript/TypeScript (Custom Dev & API Integration)
 MYSQL
 
 Developed 2FA with ADFS for CRM on prem
-
+Developed Web Console and RDP via web for hyper-V
+Developed Shortlink URL app
 Developed Web Console and RDP via web for hyper-V
